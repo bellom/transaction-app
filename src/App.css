@@ -19,7 +19,7 @@ General Styles
   padding-left: 17px;
   position: static;
   overflow: auto;
-
+  /* background-color: #6D66FF; */
 }
 
 /* ******************************
@@ -64,6 +64,10 @@ h1 {
 /* ******************************
 HomePage Styles
 ****************************** */
+/* .homePage {
+  background-color: white;
+} */
+
 .icon-homePage {
   width: 40px;
   margin-top: -30px;
@@ -107,3 +111,43 @@ ul {
 /* ******************************
 InfoPage Styles
 ****************************** */
+.infoPage {
+  background: #6D66FF;
+}
+
+.info-group-icon {
+  display: flex;
+  justify-content: space-between;
+}
+
+.back-arrow {
+  font-size: 22px;
+  text-decoration: none;
+}
+
+.icon-infoPage {
+  margin-right: 8px;
+  width: 40px;
+}
+
+.span-infoPage {
+  color: white;
+  font-size: 10px;
+  font-weight: 500;
+  margin-bottom: -30px;
+}
+
+.h1-white {
+  color: white;
+  font-size: 40px;
+}
+
+.sup-infoPage {
+  font-size: medium;  
+  font-weight: 700;
+}
+
+.section2{
+  background: #fff;
+  border-radius: 20px;
+}

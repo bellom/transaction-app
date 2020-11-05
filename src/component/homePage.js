@@ -25,7 +25,7 @@ const HomePage = () => {
       <div className="footer">
         <ul>
           <li>
-            <i className="material-icons first-icon">message</i>
+            <i className="material-icons first-icon">adjust</i>
           </li>
           <li>
             <i className="material-icons">adjust</i>
