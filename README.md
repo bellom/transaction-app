@@ -3,7 +3,8 @@
 We’d like to get a feel for how you code. Please see the figma link below, take a look at the design, study it, then bring it to life with React.js (or something else you prefer).
 
 [Figma Link](https://www.figma.com/proto/c28LXdszX9wXnN5C1wDfEs/FE-Test?node-id=1%3A3&viewport=556%2C371%2C0.9137248992919922&scaling=scale-down)
-
+## Figma Screenshot
+<img width="400" alt="WeatherApp" src="https://user-images.githubusercontent.com/31897434/98284631-b44be300-1fa1-11eb-9296-381da4579799.png">
 
 ## Screenshot
 <img width="400" alt="WeatherApp" src="https://user-images.githubusercontent.com/31897434/98283595-2a4f4a80-1fa0-11eb-9f8f-77836091be13.png">
