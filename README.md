@@ -6,7 +6,7 @@ We’d like to get a feel for how you code. Please see the figma link below, tak
 
 
 ## Screenshot
-<img width="500" alt="WeatherApp" src="https://user-images.githubusercontent.com/31897434/98283595-2a4f4a80-1fa0-11eb-9f8f-77836091be13.png">
+<img width="400" alt="WeatherApp" src="https://user-images.githubusercontent.com/31897434/98283595-2a4f4a80-1fa0-11eb-9f8f-77836091be13.png">
 
 
 [Live Link](https://transaction-app.netlify.app/)
