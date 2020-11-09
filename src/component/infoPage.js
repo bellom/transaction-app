@@ -20,34 +20,33 @@ class infoPage extends React.Component {
                   <h1 className="h1-white"><sup className="sup-infoPage">£</sup>45</h1>
                 </div>
               </div>
-              </div>
-              <div className="section2">
-                <span className="span-homePage">Transactions</span>
-                <div className="transaction2"></div>
-                <div className="transaction2"></div>
-                <div className="transaction2"></div>
-                <div className="transaction2"></div>
-                <div className="transaction2"></div>
-                <div className="transaction2"></div>
+            </div>
+            <div className="section2">
+              <span className="span-homePage">Transactions</span>
+              <div className="transaction2"></div>
+              <div className="transaction2"></div>
+              <div className="transaction2"></div>
+              <div className="transaction2"></div>
+              <div className="transaction2"></div>
+              <div className="transaction2"></div>
 
-                <div className="footer">
-                  <ul>
-                    <li>
-                      <i className="material-icons">adjust</i>
-                    </li>
-                    <li>
-                      <i className="material-icons first-icon">adjust</i>
-                    </li>
-                    <li>
-                      <i className="material-icons">adjust</i>
-                    </li>
-                    <li>
-                      <i className="material-icons">adjust</i>
-                    </li>
-                  </ul>
-                </div>
+              <div className="footer">
+                <ul>
+                  <li>
+                    <i className="material-icons">adjust</i>
+                  </li>
+                  <li>
+                    <i className="material-icons first-icon">adjust</i>
+                  </li>
+                  <li>
+                    <i className="material-icons">adjust</i>
+                  </li>
+                  <li>
+                    <i className="material-icons">adjust</i>
+                  </li>
+                </ul>
               </div>
-            {/* </div>         */}
+            </div>
         </Zoom>
       </div>
     );
