@@ -17,18 +17,18 @@ class infoPage extends React.Component {
                 </div>
                 <div>
                   <h6 className="span-infoPage">You're owed</h6>
-                  <h1 className="h1-white"><sup className="sup-infoPage">£</sup> 45</h1>
+                  <h1 className="h1-white"><sup className="sup-infoPage">£</sup>45</h1>
                 </div>
               </div>
               </div>
               <div className="section2">
                 <span className="span-homePage">Transactions</span>
-                <div className="transaction"></div>
-                <div className="transaction"></div>
-                <div className="transaction"></div>
-                <div className="transaction"></div>
-                <div className="transaction"></div>
-                <div className="transaction"></div>
+                <div className="transaction2"></div>
+                <div className="transaction2"></div>
+                <div className="transaction2"></div>
+                <div className="transaction2"></div>
+                <div className="transaction2"></div>
+                <div className="transaction2"></div>
 
                 <div className="footer">
                   <ul>
