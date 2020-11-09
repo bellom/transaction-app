@@ -2,11 +2,11 @@
 General Styles
 ****************************** */
 
-* {
+/* * {
   -webkit-box-sizing: border-box;
   -moz-box-sizing: border-box;
   box-sizing: border-box;
-}
+} */
 
 
 .App {
@@ -112,7 +112,7 @@ ul {
 InfoPage Styles
 ****************************** */
 .infoPage {
-  background: #6D66FF;
+  background-color: #6D66FF;
 }
 
 .info-group-icon {
@@ -147,7 +147,7 @@ InfoPage Styles
   font-weight: 700;
 }
 
-.section2{
+.section2 {
   background: #fff;
-  border-radius: 20px;
+  border-radius: 20px 20px 0 0;
 }

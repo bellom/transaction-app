@@ -20,6 +20,7 @@ class infoPage extends React.Component {
                   <h1 className="h1-white"><sup className="sup-infoPage">£</sup> 45</h1>
                 </div>
               </div>
+              </div>
               <div className="section2">
                 <span className="span-homePage">Transactions</span>
                 <div className="transaction"></div>
@@ -46,7 +47,7 @@ class infoPage extends React.Component {
                   </ul>
                 </div>
               </div>
-            </div>        
+            {/* </div>         */}
         </Zoom>
       </div>
     );
