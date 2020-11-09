@@ -3,6 +3,7 @@ import Zoom from 'react-reveal/Zoom';
 import { Link } from 'react-router-dom';
 import icon from '../img/card-icon.png';
 
+
 class infoPage extends React.Component {
 
   render() {
@@ -22,6 +23,7 @@ class infoPage extends React.Component {
               </div>
             </div>
             <div className="section2">
+              <div className="plus"> <h1 className="sign">+</h1></div>
               <span className="span-homePage">Transactions</span>
               <div className="transaction2"></div>
               <div className="transaction2"></div>
